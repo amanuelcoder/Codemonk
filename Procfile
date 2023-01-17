@@ -1,1 +1,1 @@
-web: gunicorn codemonk.wsgi
+web: gunicorn codemonks.wsgi
